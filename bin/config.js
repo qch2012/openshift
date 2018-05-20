@@ -14,7 +14,7 @@ var autoconfig  = function (config_overrides){
 
   var ws_info = {
     id: "nationalparks-js",
-    displayName: "National Parks (JS) -v3",
+    displayName: "National Parks (JS) -v4",
     type: "cluster",
     center: {'latitude': '47.039304', 'longitude': '14.505178'},
     zoom: 4
